@@ -1,2 +1,2 @@
 # ClickStore
-ClickStore - Your Online Shop
+Online Shopping Website
